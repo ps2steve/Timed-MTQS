@@ -1,0 +1,8 @@
+/* 
+* ARM custom IP interface with Sobel
+ * Copyright (c) 2011-2012 NSYSU ESLAB
+ * Written by CY Hsu
+ *
+ * This code is licenced under the GPL.
+ */
+ #include "sobel.cpp"
